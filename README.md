@@ -22,7 +22,7 @@ These instructions will help you set up a local development environment for the 
 1. **Visual Studio 2022 or later:** [Visual Studio website](https://visualstudio.microsoft.com/)
 
 ### Installation
-1. Clone the PARTONE repository from GitHub.
+1. Clone the PARTONE repository from GitHub Or Download the zip file.
 2. Open the PARTONE.sln solution in Visual Studio.
 
 ### Running the Application
